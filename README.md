@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Cristobal-TO/Cristobal-TO/main/banner_ct.png)
+![](https://raw.githubusercontent.com/Cristobal-TO/Cristobal-TO/main/banner_CTO.png)
 
 ### Soy un estudiante de Ciencias Políticas en la Pontificia Universidad Católica de Chile, interesado en el *data science*
 
