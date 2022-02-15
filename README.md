@@ -6,7 +6,7 @@ Tengo un interés por el el mundo informático y decidí enfocar mi aprendizaje 
 Habilidades: R/Python
 
 - 📫 Cómo contactarme: citrincado@uc.cl 
+- [Linkedin](https://www.linkedin.com/in/crist%C3%B3bal-trincado-olhab%C3%A9-935a0522a/)
 
 
-[<img src='https://w7.pngwing.com/pngs/684/46/png-transparent-linkedin-computer-icons-lord-miscellaneous-angle-text.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/crist%C3%B3bal-trincado-olhab%C3%A9-935a0522a/)  
 
