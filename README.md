@@ -8,5 +8,5 @@ Habilidades: R/Python
 - 📫 Cómo contactarme: citrincado@uc.cl 
 
 
-[<img src='https://e7.pngegg.com/pngimages/93/587/png-clipart-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/crist%C3%B3bal-trincado-olhab%C3%A9-935a0522a/)  
+[<img src='https://www.google.com/search?q=logo+linkedin&tbm=isch&chips=q:logo+linkedin,g_1:fondo+transparente:2t9DQlPgzV8%3D&client=firefox-b-d&hl=es&sa=X&ved=2ahUKEwjiyfXWg4L2AhWBB7kGHePJB2AQ4lYoAXoECAEQHg&biw=1519&bih=711#imgrc=hr3ViixelCfqTM' alt='linkedin' height='40'>](https://www.linkedin.com/in/crist%C3%B3bal-trincado-olhab%C3%A9-935a0522a/)  
 
