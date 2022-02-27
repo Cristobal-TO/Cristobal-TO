@@ -4,7 +4,7 @@
 
 Tengo un interés por el el mundo informático y decidí enfocar mi aprendizaje en el *data sience*, ya que guarda gran relación con mi carrera. Mi perfil de GitHub sirve para ayudar a pulir mis habilidades como programador, además de poder mostrar mi trabajo.
 
-El repostorio Muestra-de-trabajo contiene un archivo jupyter notebook titulado Analisis_R, el cual trata de ilustrar someramente mis habilidades. 
+El repostorio Muestra-de-trabajo contiene un archivo jupyter notebook titulado Analisis_R, el cual trata de ilustrar someramente mis habilidades.
 
 Habilidades: R/Python
 
